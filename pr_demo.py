@@ -2,4 +2,4 @@
 Stock file to be used in PR demo.
 """
 def new_method():
-    x = 3
+    good_variable_name = 3
